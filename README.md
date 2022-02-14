@@ -7,14 +7,41 @@
 
 ___
 
-This is the programming language that I often use
+### Tools
+
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Figma-323330?style=for-the-badge&logo=figma&logoColor=white)
+
+### Languages
+
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-007ACC?style=for-the-badge&logo=CSS3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/PHP-4B568B?style=for-the-badge&logo=PHP&logoColor=white) 
+___
+
+### This is my github stats
 
 <a href="https://github.com/zcode25">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcode25&theme=radical&hide=glsl,python" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zcode25&show_icons=true&theme=radical&line_height=27&v=5" alt="My GitHub Stats" />
+</a>
+
+</br>
+</br>
+
+<a href="https://github.com/zcode25">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zcode25&theme=tokyonight" />
+</a>
+
+</br>
+</br>
+
+<a href="https://github.com/zcode25">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinoval&layout=compact&theme=tokyonight" />
+</a>
+
+</br>
+</br>
+
+<a href="https://github.com/zcode25">
+  <img src="https://github-profile-trophy.vercel.app/?username=zcode25&theme=onedark&column=3&margin-w=15&margin-h=15" />
 </a>
 
 ___
 
-Tools
-
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Figma-323330?style=for-the-badge&logo=figma&logoColor=white)
