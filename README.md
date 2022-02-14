@@ -46,7 +46,7 @@ ___
 </br>
 
 <a href="https://github.com/zcode25">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinoval&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcode25&layout=compact&theme=tokyonight" />
 </a>
 
 </br>
