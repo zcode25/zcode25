@@ -1,12 +1,12 @@
 # ZCODE
 
 ### Hello, I'm Adam Zein 👋
-- 🔭 I'm currently working as a freelancer at ZCODE.
+- 🔭 I am the founder of ZCODE, a web development agency.
 - 🌱 I'm currently learning Mercu Buana University.
 - ⚡ Fun fact: i like K-POP and Korean Drama.
 
 ### Get in touch
-- Portfolio : https://zcode.rf.gd/
+- Portfolio : https://zcodeserver.my.id/
 - Email : adamzein345@gmail.com
 - Linkedin  : https://www.linkedin.com/in/azein25/
 - Facebook  : https://web.facebook.com/adam.zein.370/
