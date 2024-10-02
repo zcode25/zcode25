@@ -1,6 +1,6 @@
 ### Hello, I'm Adam Zein 👋
 - 🔭 I am the founder of terasweb.id, a web development agency.
-- 🌱 I am a graduate with a Bachelor's degree in Information Systems with a major in software engineering from Mercu Buana University
+- 🌱 I am a graduate of Computer Science from Mercu Buana University.
 
 ### Get in touch
 - Portfolio : https://zcodeserver.my.id/
