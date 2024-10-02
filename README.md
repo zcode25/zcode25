@@ -1,5 +1,3 @@
-# ZCODE
-
 ### Hello, I'm Adam Zein 👋
 - 🔭 I am the founder of ZCODE, a web development agency.
 - 🌱 I'm currently learning Mercu Buana University.
