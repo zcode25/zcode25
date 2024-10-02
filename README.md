@@ -3,7 +3,7 @@
 - 🌱 I am a graduate of Computer Science from Mercu Buana University.
 
 ### Get in touch
-- Portfolio : https://zcodeserver.my.id/
+- Portfolio : https://terasweb.id/
 - Email : adamzein345@gmail.com
 - Linkedin  : https://www.linkedin.com/in/azein25/
 - Instagram 1 : https://www.instagram.com/azein25/
