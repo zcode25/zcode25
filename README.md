@@ -1,15 +1,13 @@
 ### Hello, I'm Adam Zein 👋
-- 🔭 I am the founder of ZCODE, a web development agency.
-- 🌱 I'm currently learning Mercu Buana University.
-- ⚡ Fun fact: i like K-POP and Korean Drama.
+- 🔭 I am the founder of terasweb.id, a web development agency.
+- 🌱 I am a graduate with a Bachelor's degree in Information Systems with a major in software engineering from Mercu Buana University
 
 ### Get in touch
 - Portfolio : https://zcodeserver.my.id/
 - Email : adamzein345@gmail.com
 - Linkedin  : https://www.linkedin.com/in/azein25/
-- Facebook  : https://web.facebook.com/adam.zein.370/
 - Instagram 1 : https://www.instagram.com/azein25/
-- Instagram 2 : https://www.instagram.com/zcode25/
+- Instagram 2 : https://www.instagram.com/terasweb.id/
 
 ___
 
